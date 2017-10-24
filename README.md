@@ -12,4 +12,4 @@ Under construction
 - Interaction with arduino (code under development)
 - Bluetooth interface
 - Handle errors gracefully
-
+- Code refactor to increase code cohesion
